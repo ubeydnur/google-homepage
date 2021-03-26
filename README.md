@@ -1,1 +1,1 @@
-![Proje görüntüsü](google-homepage/assets/Adsız.png)
+![Proje görüntüsü](assets/Adsız.png)
